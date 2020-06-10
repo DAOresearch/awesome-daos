@@ -1,6 +1,3 @@
-# awesome-daos
-An awesome list for DAO stuff
-
 ## 🔨 Motivation 
 
 If you only have a hammer everything looks like a nail. Don't be that guy! Arm yourself with all the tools in the toolbox to use the right tools for the right job. 
