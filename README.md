@@ -54,9 +54,17 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-# DAO News
+## News
 - [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
 - [DAObase](https://daobase.org/) - A thorough review of all the DAO things.
+
+<br>
+
+## Legals 
+- [LexNode](https://www.dealninja.law/) - U.S. attorney with over a decade of experience in the structuring, negotiation and execution of strategic transactions for technology clients.
+- [LexDAO](https://lexdao.org/) - The world's first decentralized legal engineering guild. 
+- [Etherize](https://etherize.io/) - Portal for the formation of hypbrid DAO <> LLC entities.
+- [OpenLaw](https://dao.openlaw.io/) - Quickly and cheaply deploy DAOs with legal wrappers.
 
 <br>
 
