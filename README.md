@@ -65,6 +65,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [LexDAO](https://lexdao.org/) - The world's first decentralized legal engineering guild. 
 - [Etherize](https://etherize.io/) - Portal for the formation of hypbrid DAO <> LLC entities.
 - [OpenLaw](https://dao.openlaw.io/) - Quickly and cheaply deploy DAOs with legal wrappers.
+- [OpenEsquire](https://smartco.xyz/) - An app to summon smart companies.
 
 <br>
 
