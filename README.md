@@ -4,7 +4,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-## 👾 Community 
+## 👽 Community 
 - [DAO Alliance](https://t.me/AllianceDAO) - A community of DAOs dedicated to moving forward the DAO space as a whole.
 - [DAO Rush Week](https://daorushweek.com/) - Events for DAOs to share information with the community and for the community to learn about DAOs.
 - [MetaCartel](https://www.metacartel.org/) - A community of awesome people who summon, support, and participate in awesome DAOs.
