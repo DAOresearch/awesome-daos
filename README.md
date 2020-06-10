@@ -4,7 +4,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-## Community 
+## 👾 Community 
 - [DAO Alliance](https://t.me/AllianceDAO) - A community of DAOs dedicated to moving forward the DAO space as a whole.
 - [DAO Rush Week](https://daorushweek.com/) - Events for DAOs to share information with the community and for the community to learn about DAOs.
 - [MetaCartel](https://www.metacartel.org/) - A community of awesome people who summon, support, and participate in awesome DAOs.
@@ -27,7 +27,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-## Design Patterns
+## 📜 Design Patterns
 - [Aragon Company DAO]() - Transferable token with voting and a treasury.
 - [Commons Stack]() - Coordinate and sustain common goods.
 - [Gardens]() - Composable community currencies.
@@ -36,7 +36,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-## Tools
+## 🧰 Tools
 - [Aragon Agent](https://aragon.org/agent) - Connect your DAO to any smart contract | Aragon Agent.
 - [AraGraph](https://diligence.consensys.net/blog/2019/11/aragraph-dao-permissions-visualized/) - AraGraph - Aragon DAO Permissions Visualized.
 - [Moloch Minion](https://medium.com/@thelaoofficial/the-path-to-unaccredited-daos-with-minion-8113213f7195) - The Path to Unaccredited DAOs with Minion.
@@ -45,7 +45,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-## Analytics & Data
+## 🔬 Analytics & Data
 - [How to monitor your Aragon Organization using Tenderly](https://blog.tenderly.dev/how-to-monitor-your-aragon-organization-using-tenderly/)
 - [Apiary Explorer](https://apiary.1hive.org/orgs)
 - [Deep DAO - Insights for a Decentralized World](http://deepdao.world/#/app/dashboard)
@@ -54,13 +54,13 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-## News
+## 📰 News
 - [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
 - [DAObase](https://daobase.org/) - A thorough review of all the DAO things.
 
 <br>
 
-## Legals 
+## 💼 Legals 
 - [LexNode](https://www.dealninja.law/) - U.S. attorney with over a decade of experience in the structuring, negotiation and execution of strategic transactions for technology clients.
 - [LexDAO](https://lexdao.org/) - The world's first decentralized legal engineering guild. 
 - [Etherize](https://etherize.io/) - Portal for the formation of hypbrid DAO <> LLC entities.
@@ -68,7 +68,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-## Other Things
+## ❓ Other Things
 - [the-dogs-molochs](https://the-dogs-molochs.web.app/)
 - [DenverDAO/COMStack](https://github.com/DenverDAO/COMStack)
 - [One Click dApp](https://oneclickdapp.com/) - If you roll a DAO with solidity and want a quick front-end
