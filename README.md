@@ -29,6 +29,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 ## 📜 Design Patterns
 - [Aragon Company DAO]() - Transferable token with voting and a treasury.
+- [Colony](https://colony.io/dev/docs/colonynetwork/intro-welcome) - Reputation based task management and dispute resolution.
 - [Commons Stack]() - Coordinate and sustain common goods.
 - [Gardens]() - Composable community currencies.
 - [MolochDAO]() - Coordinate and manage capital.  
