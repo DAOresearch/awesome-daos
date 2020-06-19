@@ -12,6 +12,12 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
+## 📰 News
+- [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
+- [DAObase](https://daobase.org/) - A thorough review of all the DAO things.
+
+<br>
+
 ## 📜 Design Patterns
 - [Aragon Company DAO]() - Transferable token with voting and a treasury.
 - [Colony](https://colony.io/dev/docs/colonynetwork/intro-welcome) - Reputation based task management and dispute resolution.
@@ -56,12 +62,6 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Deep DAO - Insights for a Decentralized World](http://deepdao.world/#/app/dashboard)
 - [DAO Dashboard](https://mydaodashboard.com/)
 - [DAO Metrics](https://daometrics.com/)
-
-<br>
-
-## 📰 News
-- [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
-- [DAObase](https://daobase.org/) - A thorough review of all the DAO things.
 
 <br>
 
