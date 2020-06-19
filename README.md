@@ -12,21 +12,6 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-## 🏗 Dev Shops
-- [⚔️ RaidGuild DAOshop](https://raidguild.org/) - Go from 0 => DAO. Everything from initial consultations, design, deployment, custom development, and more (all the things).  
-- [🌐 dOrg](https://dorg.tech/) - We help crypto startups build. Past projects include DeFi applications and DAOstack DAOs (mostly DAOstack).
-- [🐝 1Hive](https://1hive.org/) - Tools and apps that help open source communities thrive (mostly Aragon). 
-
-<br>
-
-## 🌐 Frameworks & Platforms
-- [Aragon](https://aragon.org/) - A modular upgradeable operating system for DAOs and DAO apps.  
-- [DAOhaus](https://daohaus.club/) - A platform to launch and discover MolochDAOs.
-- [Colony](https://colony.io/) - A reputation protocol for getting things done.
-- [https://daostack.io/](https://daostack.io/) - A full stack DAO platform.
-
-<br>
-
 ## 📜 Design Patterns
 - [Aragon Company DAO]() - Transferable token with voting and a treasury.
 - [Colony](https://colony.io/dev/docs/colonynetwork/intro-welcome) - Reputation based task management and dispute resolution.
@@ -45,6 +30,14 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting) - Voting weight scales quadratically with the number of tokens one holds. Not sybil resistant, but only works if everyone has a single account in the system.
 - [Delegated democracy]() - Delegate your votes to someone else.
 - [Budget box](https://blog.colony.io/introducing-budgetbox/) - Pairwise comparisons for budgetting.
+
+<br>
+
+## 🌐 Frameworks & Platforms
+- [Aragon](https://aragon.org/) - A modular upgradeable operating system for DAOs and DAO apps.  
+- [DAOhaus](https://daohaus.club/) - A platform to launch and discover MolochDAOs.
+- [Colony](https://colony.io/) - A reputation protocol for getting things done.
+- [https://daostack.io/](https://daostack.io/) - A full stack DAO platform.
 
 <br>
 
@@ -72,6 +65,13 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
+## 🏗 Dev Shops
+- [⚔️ RaidGuild DAOshop](https://raidguild.org/) - Go from 0 => DAO. Everything from initial consultations, design, deployment, custom development, and more (all the things).  
+- [🌐 dOrg](https://dorg.tech/) - We help crypto startups build. Past projects include DeFi applications and DAOstack DAOs (mostly DAOstack).
+- [🐝 1Hive](https://1hive.org/) - Tools and apps that help open source communities thrive (mostly Aragon). 
+
+<br>
+
 ## 💼 Legals 
 - [LexNode](https://www.dealninja.law/) - U.S. attorney with over a decade of experience in the structuring, negotiation and execution of strategic transactions for technology clients.
 - [LexDAO](https://lexdao.org/) - The world's first decentralized legal engineering guild. 
@@ -86,14 +86,4 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [DenverDAO/COMStack](https://github.com/DenverDAO/COMStack)
 - [One Click dApp](https://oneclickdapp.com/) - If you roll a DAO with solidity and want a quick front-end
 
-
-
-
-
-
-
-
-
-
-
-
+<br>
