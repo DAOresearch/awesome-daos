@@ -43,6 +43,8 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Time boxed voting]() - Vote yay or nay on a thing within a window of time.
 - [Wait for quite](https://medium.com/@dominic_w/using-wait-for-quiet-voting-in-the-dao-12ecd9d9ccc3) - Wait until voting has quited down before closing a vote.
 - [Quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting) - Voting weight scales quadratically with the number of tokens one holds. Not sybil resistant, but only works if everyone has a single account in the system.
+- [Delegated democracy]() - Delegate your votes to someone else.
+- [Budget box](https://blog.colony.io/introducing-budgetbox/) - Pairwise comparisons for budgetting.
 
 <br>
 
