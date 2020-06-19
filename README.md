@@ -40,7 +40,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 ## 🗳️ Governance Mechanisms 
 - [Holographic consensus](https://medium.com/daostack/holographic-consensus-part-2-4fd461e8dcde) - A governance mechanism that allows for local decisions that represent the interests of a global group.
 - [Conviction voting](https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475) - Proposals are passed based on aggregated continuous preferences of community members.
-- [Time box voting]() - Vote yay or nay on a thing within a window of time.
+- [Time boxed voting]() - Vote yay or nay on a thing within a window of time.
 
 <br>
 
