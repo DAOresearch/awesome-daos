@@ -53,6 +53,8 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [DAO Ops](https://medium.com/abridged-io/summoning-the-spirit-of-dao-ops-5928ee26b9d5) - Chat based interactions with DAOs.
 - [Moloch Minion](https://medium.com/@thelaoofficial/the-path-to-unaccredited-daos-with-minion-8113213f7195) - The Path to Unaccredited DAOs with Minion.
 - [Gnosis Safe contract interactions](https://blog.gnosis.pm/gnosis-safe-multisig-desktop-app-and-contract-interactions-6f8b92c3275b) - Gnosis Safe Multisig Desktop App and Contract Interactions.
+- [ArgoDisco](https://eth.taxi/blog/dao_notifications) - A Discord bot for Aragon DAO notifications.
+  - [code](https://github.com/acolytec3/ArgoDisco)
 
 <br>
 
