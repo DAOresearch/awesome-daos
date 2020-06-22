@@ -55,6 +55,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Gnosis Safe contract interactions](https://blog.gnosis.pm/gnosis-safe-multisig-desktop-app-and-contract-interactions-6f8b92c3275b) - Gnosis Safe Multisig Desktop App and Contract Interactions.
 - [ArgoDisco](https://eth.taxi/blog/dao_notifications) - A Discord bot for Aragon DAO notifications.
   - [code](https://github.com/acolytec3/ArgoDisco)
+- [Gelto Finance](https://play.gelato.finance/) - If this then that for DeFi and DAOs.
 
 <br>
 
