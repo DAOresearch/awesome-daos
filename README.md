@@ -48,14 +48,27 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 <br>
 
 ## 🧰 Tools
+
+### Contract Interactions
 - [Aragon Agent](https://aragon.org/agent) - Connect your DAO to any smart contract | Aragon Agent.
-- [AraGraph](https://diligence.consensys.net/blog/2019/11/aragraph-dao-permissions-visualized/) - AraGraph - Aragon DAO Permissions Visualized.
-- [DAO Ops](https://medium.com/abridged-io/summoning-the-spirit-of-dao-ops-5928ee26b9d5) - Chat based interactions with DAOs.
-- [Moloch Minion](https://medium.com/@thelaoofficial/the-path-to-unaccredited-daos-with-minion-8113213f7195) - The Path to Unaccredited DAOs with Minion.
+[Moloch Minion](https://medium.com/@thelaoofficial/the-path-to-unaccredited-daos-with-minion-8113213f7195) - The Path to Unaccredited DAOs with Minion.
 - [Gnosis Safe contract interactions](https://blog.gnosis.pm/gnosis-safe-multisig-desktop-app-and-contract-interactions-6f8b92c3275b) - Gnosis Safe Multisig Desktop App and Contract Interactions.
+
+### Fundraising
+- [Open Raise](https://github.com/dOrgTech/OpenRaise) - Open Raise is a modular library of smart contracts and UI components that bring these ideas to life and make it easy for organizations to run accountable fundraising campaigns.
+
+### DeFi
+- [Gelto Finance](https://play.gelato.finance/) - If this then that for DeFi and DAOs.
+- [StakeOnMe](https://stakeonme.com/Tokenize) - Work tokens that DAO members can redeem at a higher rate than the general public.
+
+### UX
 - [ArgoDisco](https://eth.taxi/blog/dao_notifications) - A Discord bot for Aragon DAO notifications.
   - [code](https://github.com/acolytec3/ArgoDisco)
-- [Gelto Finance](https://play.gelato.finance/) - If this then that for DeFi and DAOs.
+- [DAO Ops](https://medium.com/abridged-io/summoning-the-spirit-of-dao-ops-5928ee26b9d5) - Chat based interactions with DAOs.
+- [Collab Land](https://collab.land/) - DAO tools to help communities improve their collaboration and coordination.
+
+### DAO Viz
+- [AraGraph](https://diligence.consensys.net/blog/2019/11/aragraph-dao-permissions-visualized/) - AraGraph - Aragon DAO Permissions Visualized.
 
 <br>
 
