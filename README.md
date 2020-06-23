@@ -56,7 +56,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 ### Fundraising
 - [Open Raise](https://github.com/dOrgTech/OpenRaise) - Open Raise is a modular library of smart contracts and UI components that bring these ideas to life and make it easy for organizations to run accountable fundraising campaigns.
-- [TrojanDAO V2 Molecule bonding curves](https://docs.google.com/document/d/1mnUcjCKE-j4B9qraH2RkC8sEnUNw6Y2t4yF33XMRsU8/edit) (WIP) - A fundraising mechanism that has a minimum presale goal to start, an open bonding curve for the fundraise, and then a feature that flattens the curve so that participants have a propotional stake in the upcoming venture.
+- [TrojanDAO V2](https://docs.google.com/document/d/1mnUcjCKE-j4B9qraH2RkC8sEnUNw6Y2t4yF33XMRsU8/edit) (WIP) - A fundraising mechanism that has a minimum presale goal to start, an open bonding curve for the fundraise, and then flattens the curve so that participants have a propotional stake in the upcoming venture.
 
 ### DeFi
 - [Gelto Finance](https://play.gelato.finance/) - If this then that for DeFi and DAOs.
