@@ -20,11 +20,15 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 ## 📜 Design Patterns
 - [Aragon Company DAO]() - Transferable token with voting and a treasury.
+- [Aragon Fundraising DAO]() - A simple DAICO.
 - [Colony](https://colony.io/dev/docs/colonynetwork/intro-welcome) - Reputation based task management and dispute resolution.
 - [Commons Stack]() - Coordinate and sustain common goods.
 - [Gardens]() - Composable community currencies.
 - [Gnosis multi-sig]() - A shared bank account.
 - [MolochDAO]() - Coordinate and manage capital.  
+- [MolochDAO V2]() - Coordinate and manage capital.
+- [MolochDAO V3]() - TBD
+- [TrojanDAO V2]() - Fundraise and coordinate and manage capital.
 
 <br>
 
@@ -51,24 +55,29 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 ### Contract Interactions
 - [Aragon Agent](https://aragon.org/agent) - Connect your DAO to any smart contract | Aragon Agent.
-- [Moloch Minion](https://medium.com/@thelaoofficial/the-path-to-unaccredited-daos-with-minion-8113213f7195) - The Path to Unaccredited DAOs with Minion.
 - [Gnosis Safe contract interactions](https://blog.gnosis.pm/gnosis-safe-multisig-desktop-app-and-contract-interactions-6f8b92c3275b) - Gnosis Safe Multisig Desktop App and Contract Interactions.
+- [Moloch Minion](https://medium.com/@thelaoofficial/the-path-to-unaccredited-daos-with-minion-8113213f7195) - The Path to Unaccredited DAOs with Minion.
 
-### Fundraising
-- [Open Raise](https://github.com/dOrgTech/OpenRaise) - Open Raise is a modular library of smart contracts and UI components that bring these ideas to life and make it easy for organizations to run accountable fundraising campaigns.
-- [TrojanDAO V2](https://docs.google.com/document/d/1mnUcjCKE-j4B9qraH2RkC8sEnUNw6Y2t4yF33XMRsU8/edit) (WIP) - A fundraising mechanism that has a minimum presale goal to start, an open bonding curve for the fundraise, and then flattens the curve so that participants have a propotional stake in the upcoming venture.
+### DAO Viz
+- [AraGraph](https://diligence.consensys.net/blog/2019/11/aragraph-dao-permissions-visualized/) - AraGraph - Aragon DAO Permissions Visualized.
 
 ### DeFi
 - [Gelto Finance](https://play.gelato.finance/) - If this then that for DeFi and DAOs.
 - [StakeOnMe](https://stakeonme.com/Tokenize) - Work tokens that DAO members can redeem at a higher rate than the general public.
 
+### Fundraising
+- [Open Raise](https://github.com/dOrgTech/OpenRaise) - Open Raise is a modular library of smart contracts and UI components that bring these ideas to life and make it easy for organizations to run accountable fundraising campaigns.
+- [TrojanDAO V2](https://docs.google.com/document/d/1mnUcjCKE-j4B9qraH2RkC8sEnUNw6Y2t4yF33XMRsU8/edit) (WIP) - A fundraising mechanism that has a minimum presale goal to start, an open bonding curve for the fundraise, and then flattens the curve so that participants have a propotional stake in the upcoming venture.
+
+### Token Distributions
+- [AraCred](github.com/aracred/) - Measure and reward contributions.
+- [Airdrops]() - Because why not.
+- [Liquidity mining](Many models) - Send tokens to liquidity providers.
+
 ### UX
 - [ArgoDisco](https://eth.taxi/blog/dao_notifications) - A Discord bot for Aragon DAO notifications ([code](https://github.com/acolytec3/ArgoDisco)).
-- [DAO Ops](https://medium.com/abridged-io/summoning-the-spirit-of-dao-ops-5928ee26b9d5) - Chat based interactions with DAOs.
 - [Collab Land](https://collab.land/) - DAO tools to help communities improve their collaboration and coordination.
-
-### DAO Viz
-- [AraGraph](https://diligence.consensys.net/blog/2019/11/aragraph-dao-permissions-visualized/) - AraGraph - Aragon DAO Permissions Visualized.
+- [DAO Ops](https://medium.com/abridged-io/summoning-the-spirit-of-dao-ops-5928ee26b9d5) - Chat based interactions with DAOs.
 
 <br>
 
