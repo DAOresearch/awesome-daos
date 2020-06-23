@@ -72,7 +72,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 ### Token Distributions
 - [AraCred](github.com/aracred/) - Measure and reward contributions.
 - [Airdrops]() - Because why not.
-- [Liquidity mining](Many models) - Send tokens to liquidity providers.
+- [Liquidity mining](TBD) - Send tokens to liquidity providers.
 
 ### UX
 - [ArgoDisco](https://eth.taxi/blog/dao_notifications) - A Discord bot for Aragon DAO notifications ([code](https://github.com/acolytec3/ArgoDisco)).
