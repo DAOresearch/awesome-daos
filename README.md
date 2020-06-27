@@ -44,7 +44,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 <br>
 
 ## 🌐 Frameworks & Platforms
-- [Aragon](https://aragon.org/) - A modular upgradeable operating system for DAOs and DAO apps.  
+- [Aragon](https://aragon.org/) - A modular upgradeable operating system for DAOs and DAO apps. Check out the [awesome Aragon list](https://github.com/AraStuff/awesome-aragon) for more Aragon stuff.
 - [Colony](https://colony.io/) - A reputation protocol for getting things done.
 - [DAOhaus](https://daohaus.club/) - A platform to launch and discover MolochDAOs.
 - [DAOstack](https://daostack.io/) - A full stack DAO platform.
