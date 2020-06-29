@@ -33,6 +33,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 <br>
 
 ## 🗳️ Governance Mechanisms 
+- [Ranked choice](https://en.wikipedia.org/wiki/Ranked_voting) - Voters use a ranked (or preferential) ballot to rank choices in a sequence on the ordinal scale: 1st, 2nd, 3rd, etc.
 - [Budget box](https://blog.colony.io/introducing-budgetbox/) - Pairwise comparisons for budgetting.
 - [Conviction voting](https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475) - Proposals are passed based on aggregated continuous preferences of community members.
 - [Delegated democracy]() - Delegate your votes to someone else.
