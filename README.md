@@ -9,6 +9,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [DAO Alliance](https://t.me/AllianceDAO) - A community of DAOs dedicated to moving forward the DAO space as a whole.
 - [DAO Rush Week](https://daorushweek.com/) - Events for DAOs to share information with the community and for the community to learn about DAOs.
 - [MetaCartel](https://www.metacartel.org/) - A community of awesome people who summon, support, and participate in awesome DAOs.
+- [DAOs in the Wild](https://www.notion.so/b78fb07170364f5b8d489e64ddac0128) - A list of DAOs organized based on how easy it is to join/contribute to them.
 
 <br>
 
@@ -118,5 +119,6 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [DenverDAO/COMStack](https://github.com/DenverDAO/COMStack)
 - [One Click dApp](https://oneclickdapp.com/) - If you roll a DAO with solidity and want a quick front-end
 - [the-dogs-molochs](https://the-dogs-molochs.web.app/)
+- [DAO Stuff](https://www.notion.so/752ebbd0fa274065b51919a652c6e51d?v=1663f8ec31df48188b30b2bfc1c2395f) - Notion board with lots of DAO stuff.
 
 <br>
