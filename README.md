@@ -107,6 +107,13 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
+## 💭 DAO Ideas
+
+- [Decentralized Investment Bank](https://medium.com/@jon.tomp/decentralized-autonomous-investment-bank-ff422d08cc7c) - Organization that helps project with fundraising and token distribution.
+- [PubDAO](https://medium.com/@jon.tomp/cost-economic-model-for-web-advertising-7fca03764896) - DAO to manage a publication and allows members to approve ad listings.
+
+<br>
+
 ## ❓ Other Things
 - [DenverDAO/COMStack](https://github.com/DenverDAO/COMStack)
 - [One Click dApp](https://oneclickdapp.com/) - If you roll a DAO with solidity and want a quick front-end
