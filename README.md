@@ -23,7 +23,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Aragon Fundraising DAO]() - A simple DAICO.
 - [Colony](https://colony.io/dev/docs/colonynetwork/intro-welcome) - Reputation based task management and dispute resolution.
 - [Commons Stack]() - Coordinate and sustain common goods.
-- [Gardens]() - Composable community currencies.
+- [Gardens](https://forum.1hive.org/t/gardens-overview/32) - Composable community currencies.
 - [Gnosis multi-sig]() - A shared bank account.
 - [MolochDAO]() - Coordinate and manage capital.  
 - [MolochDAO V2]() - Coordinate and manage capital.
