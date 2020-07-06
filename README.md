@@ -75,6 +75,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [AraCred](github.com/aracred/) - Measure and reward contributions.
 - [Airdrops]() - Because why not.
 - [Liquidity mining](TBD) - Send tokens to liquidity providers.
+- [LinkDrop](https://linkdrop.io/) - Put (transferable) tokens in a contract, then give people links they can use to claim tokens.
 
 ### UX
 - [ArgoDisco](https://eth.taxi/blog/dao_notifications) - A Discord bot for Aragon DAO notifications ([code](https://github.com/acolytec3/ArgoDisco)).
