@@ -15,6 +15,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 ## 📰 News
 - [DAObase](https://daobase.org/) - A thorough review of all the DAO things.
 - [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
+- [Boardroom](https://governance.substack.com/) - DeFi governance newsletter.
 
 <br>
 
