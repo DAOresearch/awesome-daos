@@ -1,3 +1,9 @@
+# Awesome DAOs
+
+> Note: to the best of our ability the items in each category are organized alphabetically. There is no value judgement on the merit of one thing vs another. Our aim is simply to aggregate useful DAO stuff into an awesome list. 
+
+<br>
+
 ## 🔨 Motivation 
 
 If you only have a hammer everything looks like a nail. Don't be that guy! Arm yourself with all the tools in the toolbox to use the right tools for the right job. 
@@ -107,6 +113,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [LexNode](https://www.dealninja.law/) - U.S. attorney with over a decade of experience in the structuring, negotiation and execution of strategic transactions for technology clients.
 - [OpenEsquire](https://smartco.xyz/) - An app to summon smart companies.
 - [OpenLaw](https://dao.openlaw.io/) - Quickly and cheaply deploy DAOs with legal wrappers.
+- [Otonomos](https://otonomos.com) - Quickly and cheaply deploy legal entities on and off chain.
 
 <br>
 
