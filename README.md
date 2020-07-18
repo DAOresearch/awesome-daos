@@ -129,5 +129,6 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [One Click dApp](https://oneclickdapp.com/) - If you roll a DAO with solidity and want a quick front-end
 - [the-dogs-molochs](https://the-dogs-molochs.web.app/)
 - [DAO Stuff](https://www.notion.so/752ebbd0fa274065b51919a652c6e51d?v=1663f8ec31df48188b30b2bfc1c2395f) - Notion board with lots of DAO stuff.
+- [Startup starter pack](https://github.com/Ro5s/Startup-Starter-Pack) - Would be cool to have something like this, but for DAOs.
 
 <br>
