@@ -26,16 +26,16 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 <br>
 
 ## 📜 Design Patterns
-- [Aragon Company DAO]() - Transferable token with voting and a treasury.
-- [Aragon Fundraising DAO]() - A simple DAICO.
+- [Aragon Company DAO](https://help.aragon.org/article/31-explore-the-company-organization) - Transferable token with voting and a treasury.
+- [Aragon Fundraising DAO](https://fundraising.aragon.black/) - A simple DAICO.
 - [Colony](https://colony.io/dev/docs/colonynetwork/intro-welcome) - Reputation based task management and dispute resolution.
-- [Commons Stack]() - Coordinate and sustain common goods.
+- [Commons Stack](https://commonsstack.org/) - Coordinate and sustain common goods.
 - [Gardens](https://forum.1hive.org/t/gardens-overview/32) - Composable community currencies.
-- [Gnosis multi-sig]() - A shared bank account.
-- [MolochDAO]() - Coordinate and manage capital.  
-- [MolochDAO V2]() - Coordinate and manage capital.
-- [MolochDAO V3]() - TBD
-- [TrojanDAO V2]() - Fundraise and coordinate and manage capital.
+- [Gnosis multi-sig](https://blog.gnosis.pm/gnosis-safe-multisig-desktop-app-and-contract-interactions-6f8b92c3275b) - A shared bank account.
+- [MolochDAO](https://github.com/MolochVentures/moloch/tree/minimal-revenue/v1_contracts) - Coordinate and manage capital.  
+- [MolochDAO V2](https://github.com/MolochVentures/moloch) - Coordinate and manage capital.
+- [MolochDAO V3](https://github.com/Moloch-Mystics) - TBD
+- [TrojanDAO V2](https://github.com/TROJANFOUNDATION/Trojan-DAO-Token-Engineering) - Fundraise and coordinate and manage capital.
 
 <br>
 
