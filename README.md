@@ -138,13 +138,17 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 ### MolochDAO
 - [Moloch V1 source code](https://github.com/MolochVentures/moloch/tree/master/v1_contracts) - The original Moloch. It's simple and effective. Start here.
-- [Moloch Subgraph highlight](https://medium.com/graphprotocol/moloch-subgraph-highlight-faf9da2f7e73) - An overview of the Moloch subgraph from late 2019.
-- [Moloch V2 source code](https://github.com/MolochVentures/moloch) - The V2 MolochDAO code and docs. Very informative. If you have to pick one, read this instead of all the other blog posts. 
+- [Moloch Subgraph highlight](https://medium.com/graphprotocol/moloch-subgraph-highlight-faf9da2f7e73) - An overview of the Moloch subgraph from late 2019. 
+- [Moloch V2 source code](https://github.com/MolochVentures/moloch) - The V2 MolochDAO code and docs. Very informative. If you have to pick one, read this instead of all the other blog posts.
 - [Moloch V2 audit report blog post](https://medium.com/@thelaoofficial/moloch-v2-smart-contract-audit-report-for-the-lao-48fb0415695a) - Overview of the Moloch V2 audit.
 - [Moloch Evolved](https://medium.com/raid-guild/moloch-evolved-v2-primer-25c9cdeab455) - A primer on Moloch V2.
+- [Summoning 101](https://medium.com/totle/summoner-101-expectations-of-launching-your-own-moloch-dao-d6bb0fbbe600) - What you should expect when summoning a Moloch DAO.
+- [How to summon a Moloch DAO](https://bankless.substack.com/p/how-to-start-a-moloch-dao) - A [Bankless](https://bankless.substack.com/) tutorial on summoning a Moloch DAO.
+- [How to summon a LAO](https://bankless.substack.com/p/how-to-create-a-bankless-dao) - How to summon a Moloch DAO with a legal wrapper.
 
 ### Moloch Minion
 - [Moloch Minion source code](https://github.com/raid-guild/moloch-minion) - An elegant solution for Moloch extensibility.
+- [RaidGuld Minion](https://minion.raidguild.org/) - An example of a minion live in the wild.
 - [Moloch Minion contract extensions](https://github.com/raid-guild/moloch-contract-extensions) - Contracts that extend the functionality of minions.
 - [The LAO's Minion blog post](https://medium.com/@thelaoofficial/the-path-to-unaccredited-daos-with-minion-8113213f7195) - Overview of Moloch minion with a few use cases related to investment DAOs.
 - [ScoutDAO](https://discourse.thelao.io/t/scoutdao/48) - Yet another minion use case, this time related to creating a shared account multiple Molochs can jointly manage.
