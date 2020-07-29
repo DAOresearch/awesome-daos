@@ -136,6 +136,8 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 ## 👹 Moloch Stuff
 
+> The Awesome DAOs list aims to be a high level overview of the DAO space. As such, eventually (hopefully soon!) there will be an independent Moloch Awesome list that this list can point to. Until then, here we are!
+
 ### MolochDAO
 - [Moloch V1 source code](https://github.com/MolochVentures/moloch/tree/master/v1_contracts) - The original Moloch. It's simple and effective. Start here.
 - [Moloch Subgraph highlight](https://medium.com/graphprotocol/moloch-subgraph-highlight-faf9da2f7e73) - An overview of the Moloch subgraph from late 2019. 
