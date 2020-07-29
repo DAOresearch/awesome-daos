@@ -147,6 +147,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [How to summon a LAO](https://bankless.substack.com/p/how-to-create-a-bankless-dao) - How to summon a Moloch DAO with a legal wrapper.
 
 ### Moloch Minion
+- [Moloch Minion FAQ](https://github.com/DAOresearch/awesome-daos/issues) - A rolling list of FAQ around Moloch Minions.
 - [Moloch Minion source code](https://github.com/raid-guild/moloch-minion) - An elegant solution for Moloch extensibility.
 - [RaidGuld Minion](https://minion.raidguild.org/) - An example of a minion live in the wild.
 - [Moloch Minion contract extensions](https://github.com/raid-guild/moloch-contract-extensions) - Contracts that extend the functionality of minions.
