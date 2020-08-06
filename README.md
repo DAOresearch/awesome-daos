@@ -14,7 +14,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 - [DAO Canvas](https://github.com/DAOresearch/dao-canvas) - A step by step guide to thinking through your DAO.
 - [How to DAO](https://www.notion.so/How-To-DAO-ea9b56c6ad83460fbd440d0bf81dbf5b) - A collection of articles that explain what the DAO summoning process is like.
-- [Community](##👽-Community) - The best way to get started is to connect with other DAO summoners to ask questions and get help launching your DAO!
+- [Community](https://www.notion.so/b78fb07170364f5b8d489e64ddac0128?v=b6b687f83e6d43c291b7863bce1bef8c) - The best way to get started is to connect with other DAO summoners to ask questions and get help launching your DAO!
 
 <br>
 
