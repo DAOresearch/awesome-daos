@@ -10,11 +10,11 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br>
 
-## Getting Started
+## 🚀 Getting Started
 
 - [DAO Canvas](https://github.com/DAOresearch/dao-canvas) - A step by step guide to thinking through your DAO.
 - [How to DAO](https://www.notion.so/How-To-DAO-ea9b56c6ad83460fbd440d0bf81dbf5b) - A collection of articles that explain what the DAO summoning process is like.
-- [Community](##Community) - The best way to get started is to connect with other DAO summoners to ask questions and get help launching your DAO!
+- [Community](##👽-Community) - The best way to get started is to connect with other DAO summoners to ask questions and get help launching your DAO!
 
 <br>
 
