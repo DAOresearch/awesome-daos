@@ -152,6 +152,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Moloch V2 source code](https://github.com/MolochVentures/moloch) - The V2 MolochDAO code and docs. Very informative. If you have to pick one, read this instead of all the other blog posts.
 - [Moloch V2 audit report blog post](https://medium.com/@thelaoofficial/moloch-v2-smart-contract-audit-report-for-the-lao-48fb0415695a) - Overview of the Moloch V2 audit.
 - [Moloch Evolved](https://medium.com/raid-guild/moloch-evolved-v2-primer-25c9cdeab455) - A primer on Moloch V2.
+- [Moloch V2X](https://medium.com/lexdaoism/introducing-moloch-dao-v2x-mystic-ethereum-contract-upgrades-c7984801d4db) - Moloch V2 with some extra features.
 - [Summoning 101](https://medium.com/totle/summoner-101-expectations-of-launching-your-own-moloch-dao-d6bb0fbbe600) - What you should expect when summoning a Moloch DAO.
 - [How to summon a Moloch DAO](https://bankless.substack.com/p/how-to-start-a-moloch-dao) - A [Bankless](https://bankless.substack.com/) tutorial on summoning a Moloch DAO.
 - [How to summon a LAO](https://bankless.substack.com/p/how-to-create-a-bankless-dao) - How to summon a Moloch DAO with a legal wrapper.
