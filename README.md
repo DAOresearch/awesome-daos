@@ -165,6 +165,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [The LAO's Minion blog post](https://medium.com/@thelaoofficial/the-path-to-unaccredited-daos-with-minion-8113213f7195) - Overview of Moloch minion with a few use cases related to investment DAOs.
 - [ScoutDAO](https://discourse.thelao.io/t/scoutdao/48) - Yet another minion use case, this time related to creating a shared account multiple Molochs can jointly manage.
 
-### Moloch Forks
+### Moloch Extensions
 
 - [Qaudratic Moloch](https://github.com/DemocracyEarth/DemocracyDAO) - A MolochDAO with quadratic voting built in.
+- [Moloch L2 voting via merle tries](https://github.com/openlawteam/moloch/issues/2) - An exploration of off-chain voting with on-chain resolution in Moloch DAOs.
