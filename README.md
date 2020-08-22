@@ -117,6 +117,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 <br>
 
 ## 💼 Legals 
+- [LAO Templates](https://github.com/DAOresearch/lao-templates) - A repo with open source code deference agreements to create hybrid legal/blockchain entities. 
 - [Etherize](https://etherize.io/) - Portal for the formation of hypbrid DAO <> LLC entities.
 - [LexDAO](https://lexdao.org/) - The world's first decentralized legal engineering guild. 
 - [LexNode](https://www.dealninja.law/) - U.S. attorney with over a decade of experience in the structuring, negotiation and execution of strategic transactions for technology clients.
