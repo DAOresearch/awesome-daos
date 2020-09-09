@@ -157,6 +157,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Summoning 101](https://medium.com/totle/summoner-101-expectations-of-launching-your-own-moloch-dao-d6bb0fbbe600) - What you should expect when summoning a Moloch DAO.
 - [How to summon a Moloch DAO](https://bankless.substack.com/p/how-to-start-a-moloch-dao) - A [Bankless](https://bankless.substack.com/) tutorial on summoning a Moloch DAO.
 - [How to summon a LAO](https://bankless.substack.com/p/how-to-create-a-bankless-dao) - How to summon a Moloch DAO with a legal wrapper.
+- [Moloch V3 WIP](https://github.com/openlawteam/moloch) - Exploring a modular Moloch.
 
 ### Moloch Minion
 - [Moloch Minion FAQ](https://github.com/DAOresearch/awesome-daos/issues) - A rolling list of FAQ around Moloch Minions.
