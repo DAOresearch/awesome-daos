@@ -124,6 +124,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [OpenEsquire](https://smartco.xyz/) - An app to summon smart companies.
 - [OpenLaw](https://dao.openlaw.io/) - Quickly and cheaply deploy DAOs with legal wrappers.
 - [Otonomos](https://otonomos.com) - Quickly and cheaply deploy legal entities on and off chain.
+- [AIT](https://github.com/lexDAO/AIT) - Template to verify accreditted investors and add them to a verified registry of accredited addresses (great for investment clubs).
 
 <br>
 
