@@ -37,7 +37,7 @@ As of the summer of 2020 summoning DAO on mainnet is often $100 USD in gas fees,
 
 ### IDchain
 
-- [Aragon?](TBD) - Aragon on IDchain, somewhere, but TBD where.
+- [Aragon?](https://medium.com/brightid/introducing-idchain-392c76c31d73) - Aragon on IDchain!
 - [IDchain.DAOhaus.Club](https://idchain.daohaus.club/) - DAOhaus on IDchain!
 
 ### Snapshot
