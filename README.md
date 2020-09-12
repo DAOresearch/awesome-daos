@@ -57,6 +57,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Time boxed voting]() - Vote yay or nay on a thing within a window of time.
 - [Wait for quite](https://medium.com/@dominic_w/using-wait-for-quiet-voting-in-the-dao-12ecd9d9ccc3) - Wait until voting has quited down before closing a vote.
 - [MACI](https://github.com/clrfund/maci) - Minimum anti-collustion infrasctructure. Great for grants/investments DAOs.
+- [Snapshot](https://github.com/balancer-labs/snapshot) - Verify user's token balances, then let them sign messages to create off-chain signalling votes. [Create your Snapshot page here](https://docs.snapshot.page/guides/create-a-space)!
 
 <br>
 
