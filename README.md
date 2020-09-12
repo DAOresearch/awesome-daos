@@ -1,6 +1,6 @@
 # Awesome DAOs
 
-> Note: to the best of our ability the items in each category are organized alphabetically. There is no value judgement on the merit of one thing vs another. Our aim is simply to aggregate useful DAO stuff into an awesome list. 
+> Note: to the best of our ability we're organizing useful stuff here. There is no value judgement on the merit of one thing vs another and it is not organized in any particular way. Our aim is simply to aggregate useful DAO stuff into an awesome list. 
 
 <br />
 
