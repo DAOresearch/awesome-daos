@@ -2,21 +2,21 @@
 
 > Note: to the best of our ability the items in each category are organized alphabetically. There is no value judgement on the merit of one thing vs another. Our aim is simply to aggregate useful DAO stuff into an awesome list. 
 
-<br>
+<br />
 
 ## 🔨 Motivation 
 
 If you only have a hammer everything looks like a nail. Don't be that guy! Arm yourself with all the tools in the toolbox to use the right tools for the right job. 
 
-<br>
+<br />
 
 ## 🚀 Getting Started
 
 - [DAO Canvas](https://github.com/DAOresearch/dao-canvas) - A step by step guide to thinking through your DAO.
 - [How to DAO](https://www.notion.so/How-To-DAO-ea9b56c6ad83460fbd440d0bf81dbf5b) - A collection of articles that explain what the DAO summoning process is like.
-- [Community](https://www.notion.so/b78fb07170364f5b8d489e64ddac0128?v=b6b687f83e6d43c291b7863bce1bef8c) - The best way to get started is to connect with other DAO summoners to ask questions and get help launching your DAO!
+- [Community](https://www.notion.so/b78fb07170364f5b8d489e64ddac0128?v=b6b687f83e6d43c291b7863bce1bef8c) - The bestID way to get started is to connect with other DAO summoners to ask questions and get help launching your DAO!
 
-<br>
+<br />
 
 ## 👽 Community 
 - [DAO Alliance](https://t.me/AllianceDAO) - A community of DAOs dedicated to moving forward the DAO space as a whole.
@@ -24,14 +24,36 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [DAO Rush Week](https://daorushweek.com/) - Events for DAOs to share information with the community and for the community to learn about DAOs.
 - [MetaCartel](https://www.metacartel.org/) - A community of awesome people who summon, support, and participate in awesome DAOs.
 
-<br>
+<br />
+
+## ⛓️ Sidechains
+
+As of the summer of 2020 summoning DAO on mainnet is often $100 USD in gas fees, up to $500. From there, simple things like adding new members and voting are $50-100 USD in gas. This prices most communities out of using mainnet for their DAOs. That being said, there are many sidechains and scaling solutions emerging to help DAOs thrive in the wild!
+
+### xDAI
+
+- [Aragon.1Hive.org](https://aragon.1hive.org/#/) - Aragon on xDAI thanks to 1Hive.
+- [xDAI.DAOhaus.Club](https://xdai.daohaus.club/) - Easily spin up Moloch DAOs (V1 or V2) on xDAI via DAOhaus.
+
+### IDchain
+
+- [Aragon?](TBD) - Aragon on IDchain, somewhere, but TBD where.
+- [IDchain.DAOhaus.Club](https://idchain.daohaus.club/) - DAOhaus on IDchain!
+
+### Snapshot
+
+While Snapshot isn't necessarily a scaling solution, it does allow DAO members to achieve rough consensus off-chain - potentially reducing the amount of on-chain transactions required to ratify decisions. That being said, you still have to submit transactions on-chain as Snapshot runs on a server.
+
+- [Snapshot](https://github.com/balancer-labs/snapshot) - Verify user's token balances, then let them sign messages to create off-chain signalling votes. [Create your Snapshot page here](https://docs.snapshot.page/guides/create-a-space)!
+
+<br />
 
 ## 📰 News
 - [DAObase](https://daobase.org/) - A thorough review of all the DAO things.
 - [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
 - [Boardroom](https://governance.substack.com/) - DeFi governance newsletter.
 
-<br>
+<br />
 
 ## 📜 Design Patterns
 - [Aragon Company DAO](https://help.aragon.org/article/31-explore-the-company-organization) - Transferable token with voting and a treasury.
@@ -42,10 +64,10 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Gnosis multi-sig](https://blog.gnosis.pm/gnosis-safe-multisig-desktop-app-and-contract-interactions-6f8b92c3275b) - A shared bank account.
 - [MolochDAO](https://github.com/MolochVentures/moloch/tree/minimal-revenue/v1_contracts) - Coordinate and manage capital.  
 - [MolochDAO V2](https://github.com/MolochVentures/moloch) - Coordinate and manage capital.
-- [MolochDAO V3](https://github.com/Moloch-Mystics) - TBD
+- [MolochDAO V3](https://github.com/Moloch-Mystics) - Modular Moloch - plug and play DAO legos (WIP). 
 - [TrojanDAO V2](https://github.com/TROJANFOUNDATION/Trojan-DAO-Token-Engineering) - Fundraise and coordinate and manage capital.
 
-<br>
+<br />
 
 ## 🗳️ Governance Mechanisms 
 - [Ranked choice](https://en.wikipedia.org/wiki/Ranked_voting) - Voters use a ranked (or preferential) ballot to rank choices in a sequence on the ordinal scale: 1st, 2nd, 3rd, etc.
@@ -59,7 +81,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [MACI](https://github.com/clrfund/maci) - Minimum anti-collustion infrasctructure. Great for grants/investments DAOs.
 - [Snapshot](https://github.com/balancer-labs/snapshot) - Verify user's token balances, then let them sign messages to create off-chain signalling votes. [Create your Snapshot page here](https://docs.snapshot.page/guides/create-a-space)!
 
-<br>
+<br />
 
 ## 🌐 Frameworks & Platforms
 - [Aragon](https://aragon.org/) - A modular upgradeable operating system for DAOs and DAO apps. Check out the [awesome Aragon list](https://github.com/AraStuff/awesome-aragon) for more Aragon stuff.
@@ -67,7 +89,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [DAOhaus](https://daohaus.club/) - A platform to launch and discover MolochDAOs.
 - [DAOstack](https://daostack.io/) - A full stack DAO platform.
 
-<br>
+<br />
 
 ## 🧰 Tools
 
@@ -99,7 +121,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Collab Land](https://collab.land/) - DAO tools to help communities improve their collaboration and coordination.
 - [DAO Ops](https://medium.com/abridged-io/summoning-the-spirit-of-dao-ops-5928ee26b9d5) - Chat based interactions with DAOs.
 
-<br>
+<br />
 
 ## 🔬 Analytics & Data
 - [Apiary Explorer](https://apiary.1hive.org/orgs)
@@ -108,14 +130,14 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Deep DAO - Insights for a Decentralized World](http://deepdao.world/#/app/dashboard)
 - [How to monitor your Aragon Organization using Tenderly](https://blog.tenderly.dev/how-to-monitor-your-aragon-organization-using-tenderly/)
 
-<br>
+<br />
 
 ## 🏗 Dev Shops
 - [🐝 1Hive](https://1hive.org/) - Tools and apps that help open source communities thrive (mostly Aragon). 
 - [🌐 dOrg](https://dorg.tech/) - We help crypto startups build. Past projects include DeFi applications and DAOstack DAOs (mostly DAOstack).
 - [⚔️ RaidGuild DAOshop](https://raidguild.org/) - Go from 0 => DAO. Everything from initial consultations, design, deployment, custom development, and more (all the things).  
 
-<br>
+<br />
 
 ## 💼 Legals 
 - [LAO Templates](https://github.com/DAOresearch/lao-templates) - A repo with open source code deference agreements to create hybrid legal/blockchain entities. 
@@ -127,14 +149,14 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Otonomos](https://otonomos.com) - Quickly and cheaply deploy legal entities on and off chain.
 - [AIT](https://github.com/lexDAO/AIT) - Template to verify accreditted investors and add them to a verified registry of accredited addresses (great for investment clubs).
 
-<br>
+<br />
 
 ## 💭 DAO Ideas
 
 - [Decentralized Investment Bank](https://medium.com/@jon.tomp/decentralized-autonomous-investment-bank-ff422d08cc7c) - Organization that helps project with fundraising and token distribution.
 - [PubDAO](https://medium.com/@jon.tomp/cost-economic-model-for-web-advertising-7fca03764896) - DAO to manage a publication and allows members to approve ad listings.
 
-<br>
+<br />
 
 ## ❓ Other Things
 - [DenverDAO/COMStack](https://github.com/DenverDAO/COMStack)
@@ -143,7 +165,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [DAO Stuff](https://www.notion.so/752ebbd0fa274065b51919a652c6e51d?v=1663f8ec31df48188b30b2bfc1c2395f) - Notion board with lots of DAO stuff.
 - [Startup starter pack](https://github.com/Ro5s/Startup-Starter-Pack) - Would be cool to have something like this, but for DAOs.
 
-<br>
+<br />
 
 ## 👹 Moloch Stuff
 
