@@ -52,6 +52,7 @@ While Snapshot isn't necessarily a scaling solution, it does allow DAO members t
 - [DAObase](https://daobase.org/) - A thorough review of all the DAO things.
 - [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
 - [Boardroom](https://governance.substack.com/) - DeFi governance newsletter.
+- [LexDAOism](https://lexdao.substack.com/) - LexDAO's newsletter on all things Web3 legal engineering (lots of DAO content!).
 
 <br />
 
