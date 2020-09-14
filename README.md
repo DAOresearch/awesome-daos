@@ -26,7 +26,15 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 <br />
 
-## ⛓️ Sidechains
+## 📰 News
+- [DAObase](https://daobase.org/) - A thorough review of all the DAO things.
+- [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
+- [Boardroom](https://governance.substack.com/) - DeFi governance newsletter.
+- [LexDAOism](https://lexdao.substack.com/) - LexDAO's newsletter on all things Web3 legal engineering (lots of DAO content!).
+
+<br />
+
+## 🚀 Scaling Solutions
 
 As of the summer of 2020 summoning DAO on mainnet is often $100 USD in gas fees, up to $500. From there, simple things like adding new members and voting are $50-100 USD in gas. This prices most communities out of using mainnet for their DAOs. That being said, there are many sidechains and scaling solutions emerging to help DAOs thrive in the wild!
 
@@ -45,14 +53,6 @@ As of the summer of 2020 summoning DAO on mainnet is often $100 USD in gas fees,
 While Snapshot isn't necessarily a scaling solution, it does allow DAO members to achieve rough consensus off-chain - potentially reducing the amount of on-chain transactions required to ratify decisions. That being said, you still have to submit transactions on-chain as Snapshot runs on a server.
 
 - [Snapshot](https://github.com/balancer-labs/snapshot) - Verify user's token balances, then let them sign messages to create off-chain signalling votes. [Create your Snapshot page here](https://docs.snapshot.page/guides/create-a-space)!
-
-<br />
-
-## 📰 News
-- [DAObase](https://daobase.org/) - A thorough review of all the DAO things.
-- [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
-- [Boardroom](https://governance.substack.com/) - DeFi governance newsletter.
-- [LexDAOism](https://lexdao.substack.com/) - LexDAO's newsletter on all things Web3 legal engineering (lots of DAO content!).
 
 <br />
 
