@@ -14,7 +14,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 - [DAO Canvas](https://github.com/DAOresearch/dao-canvas) - A step by step guide to thinking through your DAO.
 - [How to DAO](https://www.notion.so/How-To-DAO-ea9b56c6ad83460fbd440d0bf81dbf5b) - A collection of articles that explain what the DAO summoning process is like.
-- [Community](https://www.notion.so/b78fb07170364f5b8d489e64ddac0128?v=b6b687f83e6d43c291b7863bce1bef8c) - The bestID way to get started is to connect with other DAO summoners to ask questions and get help launching your DAO!
+- [Community](https://www.notion.so/b78fb07170364f5b8d489e64ddac0128?v=b6b687f83e6d43c291b7863bce1bef8c) - The best way to get started is to connect with other DAO summoners to ask questions and get help launching your DAO!
 
 <br />
 
@@ -32,28 +32,6 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [Boardroom](https://governance.substack.com/) - DeFi governance newsletter.
 - [LexDAOism](https://lexdao.substack.com/) - LexDAO's newsletter on all things Web3 legal engineering (lots of DAO content!).
 - [LexNode](https://medium.com/@lex_node) - LexNode's blog with many insights into the intersection of blockchain and legal entities.
-
-<br />
-
-## 🚀 Scaling Solutions
-
-As of the summer of 2020 summoning DAO on mainnet is often $100 USD in gas fees, up to $500. From there, simple things like adding new members and voting are $50-100 USD in gas. This prices most communities out of using mainnet for their DAOs. That being said, there are many sidechains and scaling solutions emerging to help DAOs thrive in the wild!
-
-### xDAI
-
-- [Aragon.1Hive.org](https://aragon.1hive.org/#/) - Aragon on xDAI thanks to 1Hive.
-- [xDAI.DAOhaus.Club](https://xdai.daohaus.club/) - Easily spin up Moloch DAOs (V1 or V2) on xDAI via DAOhaus.
-
-### IDchain
-
-- [Aragon?](https://medium.com/brightid/introducing-idchain-392c76c31d73) - Aragon on IDchain!
-- [IDchain.DAOhaus.Club](https://idchain.daohaus.club/) - DAOhaus on IDchain!
-
-### Snapshot
-
-While Snapshot isn't necessarily a scaling solution, it does allow DAO members to achieve rough consensus off-chain - potentially reducing the amount of on-chain transactions required to ratify decisions. That being said, you still have to submit transactions on-chain as Snapshot runs on a server.
-
-- [Snapshot](https://github.com/balancer-labs/snapshot) - Verify user's token balances, then let them sign messages to create off-chain signalling votes. [Create your Snapshot page here](https://docs.snapshot.page/guides/create-a-space)!
 
 <br />
 
@@ -168,6 +146,28 @@ While Snapshot isn't necessarily a scaling solution, it does allow DAO members t
 ### Autonomy
 
 ### Organization
+
+<br />
+
+## 🚀 Scaling Solutions
+
+As of the summer of 2020 summoning DAO on mainnet is often $100 USD in gas fees, up to $500. From there, simple things like adding new members and voting are $50-100 USD in gas. This prices most communities out of using mainnet for their DAOs. That being said, there are many sidechains and scaling solutions emerging to help DAOs thrive in the wild!
+
+### xDAI
+
+- [Aragon.1Hive.org](https://aragon.1hive.org/#/) - Aragon on xDAI thanks to 1Hive.
+- [xDAI.DAOhaus.Club](https://xdai.daohaus.club/) - Easily spin up Moloch DAOs (V1 or V2) on xDAI via DAOhaus.
+
+### IDchain
+
+- [Aragon?](https://medium.com/brightid/introducing-idchain-392c76c31d73) - Aragon on IDchain!
+- [IDchain.DAOhaus.Club](https://idchain.daohaus.club/) - DAOhaus on IDchain!
+
+### Snapshot
+
+While Snapshot isn't necessarily a scaling solution, it does allow DAO members to achieve rough consensus off-chain - potentially reducing the amount of on-chain transactions required to ratify decisions. That being said, you still have to submit transactions on-chain as Snapshot runs on a server.
+
+- [Snapshot](https://github.com/balancer-labs/snapshot) - Verify user's token balances, then let them sign messages to create off-chain signalling votes. [Create your Snapshot page here](https://docs.snapshot.page/guides/create-a-space)!
 
 <br />
 
