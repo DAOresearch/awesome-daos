@@ -31,6 +31,7 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 - [DAOresear.ch Newsletter](https://daoresearch.substack.com/) - A shortlist of awesome DAO stuff that happened.
 - [Boardroom](https://governance.substack.com/) - DeFi governance newsletter.
 - [LexDAOism](https://lexdao.substack.com/) - LexDAO's newsletter on all things Web3 legal engineering (lots of DAO content!).
+- [LexNode](https://medium.com/@lex_node) - LexNode's blog with many insights into the intersection of blockchain and legal entities.
 
 <br />
 
