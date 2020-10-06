@@ -154,6 +154,16 @@ While Snapshot isn't necessarily a scaling solution, it does allow DAO members t
 
 <br />
 
+## Is it a DAO?
+
+### Decentralization
+
+- [Defining decentralization](https://medium.com/@lex_node/defining-decentralization-for-law-58ca54e18b2a) - Exploring the definintion of decentralization in blockchains and token-economic systems.
+- [Banzhof power index](https://blog.coinfund.io/are-blockchain-voters-dummies-4a89a376de69) - A way to measure the voting power of a member in decentralized systems.
+- [Nakamoto coefficient](https://news.earn.com/quantifying-decentralization-e39db233c28e) - A simple, quantitative measure of a system’s decentralization, motivated by the well-known Gini coefficient and Lorenz curve.
+
+<br />
+
 ## 💭 DAO Ideas
 
 - [Decentralized Investment Bank](https://medium.com/@jon.tomp/decentralized-autonomous-investment-bank-ff422d08cc7c) - Organization that helps project with fundraising and token distribution.
