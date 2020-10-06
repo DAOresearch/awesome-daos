@@ -1,7 +1,5 @@
 # Awesome DAOs
 
-> Note: to the best of our ability we're organizing useful stuff here. There is no value judgement on the merit of one thing vs another and it is not organized in any particular way. Our aim is simply to aggregate useful DAO stuff into an awesome list. 
-
 <br />
 
 ## 🔨 Motivation 
@@ -136,6 +134,8 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 <br />
 
 ## Is it a DAO?
+
+[DAOs as a field](https://medium.com/@mariolaul/resource-distribution-and-power-dynamics-in-decentralized-networks-ab0610bee6e1) - As long as we’re dealing with human beings, the age old struggle to accumulate power and other resources is likely to remain part of the picture. Time will tell whether the unique characteristics of decentralized networks, as compared to more traditional forms of organization, are sufficient to avoid a tendency towards concentration. Field theory, as a general theory of local social orders, can be applied to frame and analyze these dynamics — a precondition for addressing their more negative long-term consequences.
 
 ### Decentralization
 
