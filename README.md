@@ -221,5 +221,6 @@ While Snapshot isn't necessarily a scaling solution, it does allow DAO members t
 ## Random stuff related to decentralized organizations
 
 - [Stigmergy](https://en.wikipedia.org/wiki/Stigmergy) - Indirect coordination, through the environment, between agents or actions.
+- [Good software takes 10 years](https://www.joelonsoftware.com/2001/07/21/good-software-takes-ten-years-get-used-to-it/) - And DAOs are just getting started.
 
 <br />
