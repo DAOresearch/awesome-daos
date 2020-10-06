@@ -145,6 +145,8 @@ If you only have a hammer everything looks like a nail. Don't be that guy! Arm y
 
 ### Autonomy
 
+- [Web3 business models](https://github.com/FEMBusinessModelsRing/web3_revenue_primitives) - In a capitalist world, autonomy is often directly related to wealth. As such, most DAOs need money. This might look like a treasury, cash flows, or an inflationary rewards token. There just needs to be some sort of value flow that makes the organization sustainable. 
+
 ### Organization
 
 <br />
