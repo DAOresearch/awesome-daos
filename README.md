@@ -72,6 +72,9 @@ While Snapshot isn't necessarily a scaling solution, it does allow DAO members t
 <br />
 
 ## 🗳️ Governance Mechanisms 
+
+> Goverance: [the process of applying any design feature or control mechanism that maintains and steers a system](https://www.placeholder.vc/blog/2020/9/30/ten-theses-on-decentralized-network-governance).
+
 - [Ranked choice](https://en.wikipedia.org/wiki/Ranked_voting) - Voters use a ranked (or preferential) ballot to rank choices in a sequence on the ordinal scale: 1st, 2nd, 3rd, etc.
 - [Budget box](https://blog.colony.io/introducing-budgetbox/) - Pairwise comparisons for budgetting.
 - [Conviction voting](https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475) - Proposals are passed based on aggregated continuous preferences of community members.
