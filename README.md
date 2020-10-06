@@ -198,3 +198,11 @@ While Snapshot isn't necessarily a scaling solution, it does allow DAO members t
 
 - [Qaudratic Moloch](https://github.com/DemocracyEarth/DemocracyDAO) - A MolochDAO with quadratic voting built in.
 - [Moloch L2 voting via merle tries](https://github.com/openlawteam/moloch/issues/2) - An exploration of off-chain voting with on-chain resolution in Moloch DAOs.
+
+<br />
+
+## Random stuff related to decentralized organizations
+
+- [Stigmergy](https://en.wikipedia.org/wiki/Stigmergy) - Indirect coordination, through the environment, between agents or actions.
+
+<br />
